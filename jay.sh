@@ -1,1 +1,2 @@
-tell me your age
+what do you want to do?
+tell me your name
